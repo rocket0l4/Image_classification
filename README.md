@@ -4,11 +4,11 @@ Classifying the Animals Images by using TensorFlow with (95% - Accuracy)
 The notebook appears to include the following key sections:
 
   1.Introduction and Setup:
-    * Link to the Colab notebook.
-    * Data preparation, including downloading and unzipping the dataset from Kaggle.
+     * Link to the Colab notebook.
+     * Data preparation, including downloading and unzipping the dataset from Kaggle.
     
   2. Libraries Import:
-    * Necessary libraries like TensorFlow/Keras, file management tools, and visualization libraries.
+     * Necessary libraries like TensorFlow/Keras, file management tools, and visualization libraries.
     
   3.Dataset Analysis:
      * Obtaining class names and counting the classes.
