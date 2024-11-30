@@ -52,3 +52,12 @@ This project focuses on image classification using a dataset of animals obtained
   3. Evaluation:
         * Assess the models using accuracy, precision, recall, and F1-score.
         * Visualize model predictions and confusion matrices.
+
+
+
+Results
+
+  * The project compares multiple models based on their classification accuracy and loss curves.
+  * Highlights:
+        * Class distributions in the dataset.
+        * Best-performing models and their configurations.
