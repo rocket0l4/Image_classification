@@ -59,5 +59,5 @@ Results
 
   * The project compares multiple models based on their classification accuracy and loss curves.
   * Highlights:
-        * Class distributions in the dataset.
-        * Best-performing models and their configurations.
+    * Class distributions in the dataset.
+    * Best-performing models and their configurations.
