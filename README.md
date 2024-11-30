@@ -35,3 +35,20 @@ This project focuses on image classification using a dataset of animals obtained
   * Models: Multiple TensorFlow/Keras deep learning architectures for classification.
   * Evaluation: Visualization of results and performance metrics.
   * Frameworks: TensorFlow and Keras for deep learning.
+
+
+
+
+### Project Structure
+
+  1. Data Preparation:
+        * Download and unzip the dataset.
+        * Analyze class names and distribution.
+
+  2. Model Training:
+        * Implement various TensorFlow/Keras models for image classification.
+        * Explore model architectures, hyperparameters, and optimization techniques.
+
+  3. Evaluation:
+        * Assess the models using accuracy, precision, recall, and F1-score.
+        * Visualize model predictions and confusion matrices.
