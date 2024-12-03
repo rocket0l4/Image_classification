@@ -1,5 +1,6 @@
 # Image_classification
 Classifying the Animals Images by using TensorFlow with (95% - Accuracy)
+---
 
 The notebook appears to include the following key sections:
 
@@ -20,13 +21,14 @@ The notebook appears to include the following key sections:
   5. Evaluation and Visualization:
      * Metrics, confusion matrices, or result visualization.
 
-
+---
 
 ​
 
 ### Project Overview
 This project focuses on image classification using a dataset of animals obtained from Kaggle. The primary goal is to explore various TensorFlow/Keras models and evaluate their performance in classifying images into multiple categories.
 
+---
 
 ### Features
 
@@ -37,6 +39,7 @@ This project focuses on image classification using a dataset of animals obtained
   * Frameworks: TensorFlow and Keras for deep learning.
 
 
+---
 
 
 ### Project Structure
@@ -53,9 +56,9 @@ This project focuses on image classification using a dataset of animals obtained
         * Assess the models using accuracy, precision, recall, and F1-score.
         * Visualize model predictions and confusion matrices.
 
+---
 
-
-Results
+### Results
 
   * The project compares multiple models based on their classification accuracy and loss curves.
   * Highlights:
